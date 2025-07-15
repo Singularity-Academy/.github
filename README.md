@@ -1,3 +1,4 @@
+![Alt text](ssvisual.png)
 # 🧠 Singularity Academy
 
 Welcome to **Singularity Academy** — a youth-led movement reimagining the future of AI education, innovation, and collaboration.
