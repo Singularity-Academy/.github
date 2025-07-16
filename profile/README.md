@@ -1,7 +1,7 @@
 ![Alt text](ssvisual.png)
-# 🧠 Singularity Academy
+# Singularity 
 
-Welcome to **Singularity Academy** — a youth-led movement reimagining the future of AI education, innovation, and collaboration.
+Welcome to **Singularity ** — a youth-led movement reimagining the future of AI education, innovation, and collaboration.
 
 We believe in a world where every student, anywhere, can access high-quality, personalized learning powered by AI and human creativity.
 
@@ -56,7 +56,7 @@ Whether you're a student, designer, developer, educator, or dreamer, you're welc
 💬 [Join our Discord](#)  
 📬 Contact us: support@sacademe.org
 Wechat : SingularityAcademy_0
-🌐 Website: [singularity.academy](https://singularity.academy)
+🌐 Website: [singularity.academy](https://sacademe.org)
 
 ---
 
