@@ -56,7 +56,7 @@ Whether you're a student, designer, developer, educator, or dreamer, you're welc
 💬 [Join our Discord](#)  
 📬 Contact us: support@sacademe.org
 Wechat : SingularityAcademy_0
-🌐 Website: [singularity.academy](https://sacademe.org)
+🌐 Website: [https://www.sacademe.org](https://www.sacademe.org)
 
 ---
 
