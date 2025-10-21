@@ -63,3 +63,5 @@ Wechat : SingularityAcademy_0
 _“Technology should not replace teachers, but empower every student to become one.”_
 
 — Team Singularity
+
+Contact to the founder @jiace zhao
